@@ -1,0 +1,70 @@
+body{
+    padding: 0;
+    margin: 20;
+    font-family: 'AR One Sans', sans-serif;
+    background: url(images/wallpaperflare.com_wallpaper.jpg);
+    background-position: fill;
+    color: #fff;
+}
+
+header h1{
+    padding: 20px;
+    font-size: 32px;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+header li{
+    list-style-type: none;
+}
+
+
+img{
+    float: right;
+    margin-top: -650px;
+    margin-right: 100px;
+}
+
+video{
+    float: right;
+    margin-right: 100px;
+    margin-top: -150px;
+}
+
+table {
+    border-collapse: collapse;  /* Collapse borders */
+    height: 40%;
+    width: 40%;
+    margin: 10px;
+}
+/* Style the table headers */
+th {
+    background-color: #f2f2f2;  /* Light grey background */
+    color: black;  /* Black text color */
+    text-align: left;  /* Left-aligned text */
+    padding: 8px;  /* Padding around text */
+}
+
+/* Style the table data cells */
+td {
+    border: 1px solid #ddd;  /* Light grey border */
+    padding: 8px;  /* Padding around text */
+}
+
+/* Add a hover effect to table rows */
+tr:hover {background-color: #ccc;}
+
+p{
+    text-align: center;
+    padding: 10px;
+}
+
+footer{
+    background: none;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
